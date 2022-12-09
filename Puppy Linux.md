@@ -23,5 +23,5 @@ Une communauté présente, donc des mises à jours récentes sont importantes po
 **Facilité d’utilisation “Certifié grand-père”**
 Son utilisation en fait un OS simple à prendre en main, ce qui fait donc qu’une large gamme d’utilisateurs possible. Le site officiel de Puppy Linux nous assure que même les moins habile de l’informatique peuvent utiliser cette OS.
 
-**Interface graphique intéressante**
-L’interface graphique rejoint ce qui a été dit précédemment concernant l'utilisation simple et facile de L’OS. Nous pouvons retrouver une interface nous rappelant Windows de part la barre des tâches, les icônes en bas à gauche etc...  L’interface graphique est agréable.
+## Installation 
+L'installation n'as pas fonctionner dès le prermier essaie car un problème de configuration est survenue au niveau de mon hyperviseur. Une fois le problème régler, l'installation va très vite et ne propose pas beaucoup de paramètres.
